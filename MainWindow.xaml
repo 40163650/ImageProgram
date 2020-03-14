@@ -1,0 +1,26 @@
+﻿<Window x:Class="NaverScraper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NaverScraper"
+        mc:Ignorable="d"
+        Title="Naver Scrapper" Height="160" Width="215" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Grid.Row="0">
+            <DockPanel LastChildFill="False">
+                <Label>Title ID:</Label>
+                <TextBox x:Name="TB_TitleID" Width="104" Height="20" DockPanel.Dock="Right" Margin="5"/>
+            </DockPanel>
+            <DockPanel LastChildFill="False">
+                <Label>Start Chapter:</Label>
+                <TextBox x:Name="TB_StartChapter" Width="104" Height="20" DockPanel.Dock="Right" Margin="5"/>
+            </DockPanel>
+            <DockPanel LastChildFill="False">
+                <Label>End Chapter:</Label>
+                <TextBox x:Name="TB_EndChapter" Width="104" Height="20" DockPanel.Dock="Right" Margin="5"/>
+            </DockPanel>
+            <Button x:Name="BTN_Go" Width="200" Margin="5" Click="BTN_Go_Click" Content="Let's-a-go!"/>
+        </StackPanel>
+    </Grid>
+</Window>
