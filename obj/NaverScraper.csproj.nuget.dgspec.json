@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj": {}
+    "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj": {}
   },
   "projects": {
-    "e:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj": {
+    "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj",
+        "projectUniqueName": "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj",
         "projectName": "NaverScraper",
-        "projectPath": "e:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj",
+        "projectPath": "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj",
         "packagesPath": "e:\\Users\\M\\.nuget\\packages\\",
-        "outputPath": "e:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\obj\\",
+        "outputPath": "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

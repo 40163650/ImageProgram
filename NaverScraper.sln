@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaverScraper", "NaverScraper.csproj", "{36675EA6-9F52-4A67-9D6F-1DB91D4FD1E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NaverScraper", "NaverScraper.csproj", "{36675EA6-9F52-4A67-9D6F-1DB91D4FD1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavScrapperForms", "..\NavScrapperForms\NavScrapperForms.csproj", "{E2EA355F-F1B9-4438-9834-1F59E73E960E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{36675EA6-9F52-4A67-9D6F-1DB91D4FD1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36675EA6-9F52-4A67-9D6F-1DB91D4FD1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36675EA6-9F52-4A67-9D6F-1DB91D4FD1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EA355F-F1B9-4438-9834-1F59E73E960E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EA355F-F1B9-4438-9834-1F59E73E960E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EA355F-F1B9-4438-9834-1F59E73E960E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EA355F-F1B9-4438-9834-1F59E73E960E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

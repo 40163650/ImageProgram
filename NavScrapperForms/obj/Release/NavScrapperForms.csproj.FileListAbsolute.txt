@@ -1,0 +1,9 @@
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\bin\Release\NavScrapperForms.exe.config
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\bin\Release\NavScrapperForms.exe
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\bin\Release\NavScrapperForms.pdb
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Release\NavScrapperForms.csprojAssemblyReference.cache
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Release\NavScrapperForms.Form1.resources
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Release\NavScrapperForms.Properties.Resources.resources
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Release\NavScrapperForms.csproj.GenerateResource.cache
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Release\NavScrapperForms.exe
+E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Release\NavScrapperForms.pdb
