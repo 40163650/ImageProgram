@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj": {}
+    "D:\\Users\\xokam\\Desktop\\Study\\Projects\\Cs\\Naver Scrapper\\NaverScraper.csproj": {}
   },
   "projects": {
-    "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj": {
+    "D:\\Users\\xokam\\Desktop\\Study\\Projects\\Cs\\Naver Scrapper\\NaverScraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj",
+        "projectUniqueName": "D:\\Users\\xokam\\Desktop\\Study\\Projects\\Cs\\Naver Scrapper\\NaverScraper.csproj",
         "projectName": "NaverScraper",
-        "projectPath": "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\NaverScraper.csproj",
-        "packagesPath": "e:\\Users\\M\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\M\\Documents\\Visual Studio 2019\\Projects\\NaverScraper\\obj\\",
+        "projectPath": "D:\\Users\\xokam\\Desktop\\Study\\Projects\\Cs\\Naver Scrapper\\NaverScraper.csproj",
+        "packagesPath": "C:\\Users\\xokam\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\xokam\\Desktop\\Study\\Projects\\Cs\\Naver Scrapper\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "e:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\xokam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +59,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

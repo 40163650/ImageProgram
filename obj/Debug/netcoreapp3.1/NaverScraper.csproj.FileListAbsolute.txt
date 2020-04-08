@@ -15,3 +15,10 @@ e:\Users\M\Documents\Visual Studio 2019\Projects\NaverScraper\obj\Debug\netcorea
 e:\Users\M\Documents\Visual Studio 2019\Projects\NaverScraper\obj\Debug\netcoreapp3.1\NaverScraper.AssemblyInfo.cs
 e:\Users\M\Documents\Visual Studio 2019\Projects\NaverScraper\obj\Debug\netcoreapp3.1\NaverScraper.dll
 e:\Users\M\Documents\Visual Studio 2019\Projects\NaverScraper\obj\Debug\netcoreapp3.1\NaverScraper.pdb
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\obj\Debug\netcoreapp3.1\NaverScraper.csprojAssemblyReference.cache
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\obj\Debug\netcoreapp3.1\NaverScraper_MarkupCompile.cache
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\obj\Debug\netcoreapp3.1\NaverScraper_MarkupCompile.lref
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\obj\Debug\netcoreapp3.1\NaverScraper.dll
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\obj\Debug\netcoreapp3.1\NaverScraper.pdb

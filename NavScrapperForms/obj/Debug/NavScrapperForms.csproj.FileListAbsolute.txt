@@ -6,3 +6,12 @@ E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Debug\NavS
 E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Debug\NavScrapperForms.csproj.GenerateResource.cache
 E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Debug\NavScrapperForms.exe
 E:\Users\M\Documents\Visual Studio 2019\Projects\NavScrapperForms\obj\Debug\NavScrapperForms.pdb
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\bin\Debug\NavScrapperForms.exe.config
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\bin\Debug\NavScrapperForms.exe
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\bin\Debug\NavScrapperForms.pdb
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\obj\Debug\NavScrapperForms.csprojAssemblyReference.cache
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\obj\Debug\NavScrapperForms.Form1.resources
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\obj\Debug\NavScrapperForms.Properties.Resources.resources
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\obj\Debug\NavScrapperForms.csproj.GenerateResource.cache
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\obj\Debug\NavScrapperForms.exe
+D:\Users\xokam\Desktop\Study\Projects\Cs\Naver Scrapper\NavScrapperForms\obj\Debug\NavScrapperForms.pdb

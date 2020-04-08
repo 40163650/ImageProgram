@@ -14,7 +14,14 @@ namespace NavScrapperForms
 		public Form1()
 		{
 			InitializeComponent();
+			CB_Website.SelectedIndex = 0;
 		}
+
+		string startSearchTerm;
+		string endSearchTerm;
+		string chapterParameter;
+		string webaddress;
+
 
 		private string GetLink(string imageHTML)
 		{
@@ -68,14 +75,15 @@ namespace NavScrapperForms
 			stream.Close();
 			client.Dispose();
 		}
-
+		//TODO: Cookies https://stackoverflow.com/questions/11164275/how-to-add-cookies-to-webrequest
+		//gateAgePass: true <-- need to try and set this
 		private async void DownloadChapter(HttpResponseMessage response, string dir)
 		{
 			// Get the response content.
 			string responseContent = await response.Content.ReadAsStringAsync();
 
-			int startPos = responseContent.IndexOf("<!-- 뷰어  -->");
-			int endPos = responseContent.IndexOf("<!-- //뷰어 -->");
+			int startPos = responseContent.IndexOf(startSearchTerm); //"<!-- 뷰어  -->"
+			int endPos = responseContent.IndexOf(endSearchTerm); //"<!-- //뷰어 -->"
 
 			if (startPos < 0 || endPos < 0)
 			{
@@ -165,11 +173,28 @@ namespace NavScrapperForms
 				return;
 			}
 
+			string selectedWebsite = CB_Website.GetItemText(CB_Website.SelectedItem);
+			if (selectedWebsite.Equals("Naver.com"))
+			{
+				startSearchTerm = "<!-- 뷰어  -->";
+				endSearchTerm = "<!-- //뷰어 -->";
+				chapterParameter = "&no=";
+				webaddress = "https://comic.naver.com/webtoon/detail.nhn?titleId=";
+			}
+			else if(selectedWebsite.Equals("Prince of Prince"))
+			{
+				startSearchTerm = "<div class=\"viewer_img _img_viewer_area \" id=\"_imageList\">";
+				endSearchTerm = "</div>";
+				chapterParameter = "";
+				webaddress = "https://www.webtoons.com/id/comedy/princes-prince/ep52/viewer?title_no=582&episode_no=";
+				TB_TitleID.Text = "";
+			}
+
 			HttpClient client = new HttpClient();
 
 			for (int i = startChap; i <= endChap; i++)
 			{
-				string URL = "https://comic.naver.com/webtoon/detail.nhn?titleId=" + TB_TitleID.Text + "&no=" + i.ToString();
+				string URL = webaddress + TB_TitleID.Text + chapterParameter + i.ToString();
 				// Get the response.
 				HttpResponseMessage response = await client.GetAsync(URL);
 				try
